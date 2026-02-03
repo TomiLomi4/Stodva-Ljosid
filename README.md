@@ -1,2 +1,4 @@
 # legendary-octo-broccoli
-Spil með ESP32 Micropython
+ESP32 Borðspil forritað með Micropython 
+
+## Spilareglur

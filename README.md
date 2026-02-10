@@ -10,8 +10,7 @@ Spil eftir Storm Snorrason og Tómas Loga Helgason
 ## Myndir
 <img width="1920" height="1440" alt="SpilFrumgerðMynd" src="https://github.com/user-attachments/assets/50c9b5d2-5440-4098-8f96-83b19d699201" />
 
-![QR_Code_1770713653](https://github.com/user-attachments/assets/21869416-29ff-4c95-8aa4-f68d1eb27c56)
-
+![QR_Code_1770720661](https://github.com/user-attachments/assets/e6a39754-0d9e-47e0-ab54-26abe29e6a3a)
 
 ## Hönnunarskrár
 ### STL

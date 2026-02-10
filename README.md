@@ -1,9 +1,6 @@
-# Stop The Light
-ESP32 Borðspil forritað með Micropython 
-
-# Skýrsla
+# Stop The Light Skýrsla
 
 ## Inngangur
-Stöðva Ljósið er keppnisleikur þar sem tveir spila á móti hvort öðrum.
+Stöðva Ljósið er ESP32 Borðspil forritað með Micropython. Leikurinn er keppnisleikur þar sem tveir spila á móti hvort öðrum.
 
 ## Spilareglur

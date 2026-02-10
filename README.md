@@ -13,7 +13,7 @@ Spil eftir Storm Snorrason og Tómas Loga Helgason
 
 ## Hönnunarskrár
 ### STL
-[endareitur.stl](STL%20FILE/endareitur.stl)
+[endareitur.stl](SVG FILES/stodva-ljosid.svg)
 
 ### SVG
 [stodva-ljosid.svg](SVG%2FILES/stodva-ljosid.svg)

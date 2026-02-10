@@ -11,3 +11,5 @@ Stöðva Ljósið er ESP32 Borðspil forritað með Micropython. Leikurinn er ke
 
 
 ## Hönnunarskrár
+
+[Endapittur.stl](endareitur.stl)

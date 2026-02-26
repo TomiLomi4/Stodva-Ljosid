@@ -9,8 +9,13 @@ Spil eftir Storm Snorrason og Tómas Loga Helgason
 
 ## Myndir
 <img width="1920" height="1440" alt="SpilFrumgerðMynd" src="https://github.com/user-attachments/assets/50c9b5d2-5440-4098-8f96-83b19d699201" />
-<img width="1920" height="1440" alt="ofnakassamedljosum" src="https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/IMG_2744.jpeg" />
-<img width="1920" height="1440" alt="ofnakassa" src="https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/IMG_2742.jpeg" />
+<img src="https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/IMG_2744.jpeg"
+     alt="ofnakassamedljosum"
+     style="transform: rotate(90deg); width: 600px;" />
+
+<img src="https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/IMG_2742.jpeg"
+     alt="ofnakassa"
+     style="transform: rotate(90deg); width: 600px;" />
 <img width="1920" height="1440" alt="innikassa" src="https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/IMG_2740.jpeg" />
 <img width="1920" height="1440" alt="lodun" src="https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/unnamed%20(3).jpg" />
 

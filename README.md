@@ -10,7 +10,7 @@ Spil eftir Storm Snorrason og Tómas Loga Helgason
 ## Myndir
 <img width="1920" height="1440" alt="SpilFrumgerðMynd" src="https://github.com/user-attachments/assets/50c9b5d2-5440-4098-8f96-83b19d699201" />
 <img width="1920" height="1440" alt="ofnakassa" src="https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/IMG_2744.jpeg" />
-
+<img width="1920" height="1440" alt="lodun" src="https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/unnamed%20(3).jpg" />
 ![QR_Code_1770720661](https://github.com/user-attachments/assets/e6a39754-0d9e-47e0-ab54-26abe29e6a3a)
 
 ## Hönnunarskrár

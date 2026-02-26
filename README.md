@@ -30,4 +30,4 @@ Spil eftir Storm Snorrason og Tómas Loga Helgason
 
 ## Kóði
 
-[Kóðinn fyrir spilið]()
+[Kóðinn fyrir spilið](https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/kodi/main.py)

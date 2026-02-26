@@ -27,3 +27,7 @@ Spil eftir Storm Snorrason og Tómas Loga Helgason
 
 ### SVG
 [stodva-ljosid.svg](SVG-FILES/stodva-ljosid.svg)
+
+## Kóði
+
+[Kóðinn fyrir spilið]()

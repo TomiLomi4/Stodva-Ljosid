@@ -16,6 +16,9 @@ Spil eftir Storm Snorrason og Tómas Loga Helgason
 
 ![QR_Code_1770720661](https://github.com/user-attachments/assets/e6a39754-0d9e-47e0-ab54-26abe29e6a3a)
 
+## Vidjó
+[Vidjó af spilinu þarf að downloda View raw](https://github.com/TomiLomi4/Stodva-Ljosid/blob/main/IMG_2746.mov)
+
 ## Hönnunarskrár
 ### STL
 [endareitur.stl](STL-FILES/endareitur.stl)
